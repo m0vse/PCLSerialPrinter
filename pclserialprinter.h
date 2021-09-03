@@ -10,7 +10,7 @@
 #include <QtSerialPort/QSerialPortInfo>
 #include <QVariant>
 #include <QByteArray>
-#include <QTextCodec>
+//#include <QTextCodec>
 #include <QSaveFile>
 #include <QTimer>
 #include <QMutex>
